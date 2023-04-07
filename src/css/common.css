@@ -16,3 +16,9 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.go__back {
+  border: #fafafa;
+  border-style: solid;
+  padding: 5px;
+}
